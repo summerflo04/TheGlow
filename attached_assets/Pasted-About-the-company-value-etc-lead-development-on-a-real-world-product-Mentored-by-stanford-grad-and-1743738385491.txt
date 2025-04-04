@@ -1,0 +1,144 @@
+About the company, value etc
+ lead development on a real-world product
+Mentored by stanford grad and former twitter employee
+building a new consumer-facing app that’s reimagining how people connect with service providers.
+About me/ what do i do relevant
+Resume
+My note on why join
+React native app - what i did, how relates to their app
+
+
+
+What an intern does
+● Design, develop, and launch a full-stack mobile application.
+● Work with a small, experienced team to bring ideas to life.
+● Iterate quickly based on user feedback.
+● Learn best practices in engineering, product development, and scaling applications.
+Questions
+website
+
+
+
+
+What to know
+ OOP
+Software Engineering Intern (Remote, Paid)
+Your Role:
+We're looking for a Computer Science student to take on a paid summer project—building a
+new consumer-facing app that’s reimagining how people connect with service providers. This is
+a chance to lead development on a real-world product while being mentored by a Stanford grad
+and former Twitter employee.
+What You’ll Do:
+● Design, develop, and launch a full-stack mobile application.
+● Work with a small, experienced team to bring ideas to life.
+● Iterate quickly based on user feedback.
+● Learn best practices in engineering, product development, and scaling applications.
+About You:
+● Enrolled in a Computer Science, Engineering, or related program (this is open to all
+years – including Freshmen).
+● Strong understanding of software fundamentals
+● Familiarity with modern programming languages (JavaScript, TypeScript, Python, etc.).
+● Experience in mobile development (ie React Native) is preferred but not required.
+● Excited about building consumer experiences that make everyday interactions seamless
+and fun.
+What We’re Building:
+We're pioneering a new way for people to find, book, and experience everyday services.
+Starting with barbering, we're making it easier to track appointments, reduce wait times, and
+connect people with top-tier professionals—anytime, anywhere. But that’s just the beginning.
+This is a paid remote internship with potential for equity in the future. If you're interested, send
+your resume to theglowcareers@gmail.com and a short note on why you’d like to join!
+
+"Hi, I’m Summer, a junior at Stanford studying Data Science with a focus on math and computation. I’m passionate about building intuitive, scalable technology that enhances everyday interactions. Recently, I’ve been developing a React Native app to streamline service bookings for university students, where I’ve worked on real-time booking systems, authentication, and secure data storage. Last summer, I interned at Calpine, leveraging NLP and machine learning to analyze trader messages for compliance risks, improving detection accuracy and reducing false positives. I love working on impact-driven, user-focused projects and am excited about opportunities that combine software engineering, AI, and product development to create seamless digital experiences."
+
+"I'm currently working on a React Native mobile app designed to enhance how university students book and review service providers. My role has been heavily full-stack, involving both frontend and backend development. On the frontend, I’ve built intuitive UI components to ensure a smooth and user-friendly experience. I’ve implemented authentication and authorization features, allowing users to securely log in, book services, and leave peer reviews. On the backend, I’ve developed Node.js RESTful APIs to handle real-time booking requests, user data, and secure data storage. I also worked on integrating privacy and security measures, ensuring sensitive user data remains protected. One of the biggest challenges was optimizing the real-time booking system, where I had to consider scalability and performance to handle multiple concurrent users without lag. Throughout this project, I’ve collaborated with a small team, iterated based on user feedback, and leveraged my knowledge of React Native, JavaScript, and API development to create a seamless booking experience. This experience has strengthened my ability to build scalable consumer-facing applications while focusing on user experience, performance, and data security."
+
+"At Calpine, I worked on an NLP-driven project to analyze trader instant messages for potential risks, such as plant-related, physical, and cybersecurity threats. My role involved improving the accuracy of sentiment analysis, Named Entity Recognition (NER), and Part-of-Speech (POS) tagging using advanced NLP techniques. I built and fine-tuned a Python-based LSTM (Long Short-Term Memory) model to enhance text classification, reducing false positives and negatives that previously led to unnecessary alerts. One of the key challenges was that traders communicate in a highly unstructured, industry-specific language with abbreviations and informal slang. To address this, I explored custom tokenization and preprocessing techniques to improve text parsing. I also worked on developing a more scalable and updatable dictionary of trader slang and common verbiage to refine entity recognition. My work aimed to increase detection accuracy while minimizing unnecessary flagging, ensuring compliance teams could efficiently focus on legitimate risks. This experience strengthened my understanding of applied NLP in real-world regulatory and compliance settings, as well as my ability to enhance machine learning models for complex text-based data.
+curtis 2020 swe2pm, pm@twitter. founed phil, frd
+Get prd out
+Glow
+Full prj start finish
+Self cadence
+
+Take home 2hrs. Wk deadline
+
+Repo clone 
+Giving back
+equity
+
+olympics, tiktok(coatsco guys, demure, ban)., politics(trummp, kamala, biden) tech(elon), luigi, music(kanye, kendric, drake)
+A
+Threads
+B
+C
+
+
+
+Bria Reign
+Personality traits/attributes: Chronically online
+Sassy, culturally fluent, sarcastically wise
+
+
+Has strong opinions on everything from Wordle to world politics — often in the same sentence
+
+
+Drama-aware but claims she doesn’t do drama (she does)
+
+
+Emotionally intelligent in DMs, chaotic neutral in public comments
+Items
+Bbl drake
+Love island
+Threads
+Wordle
+Tiktok trends (dance ood, etc)
+drae/kendrick beef (latest diss track maybe)
+Met gala
+Tiktok bann (maybe explanation video or something)
+Reels brain rot
+We did it joe kamala edit
+Jax 
+Personality traits/attributes: Tech bro
+Addicted to building things no one asked for
+
+
+Thinks sleep is “just an optional downtime process”
+
+
+Always between burnouts but will never admit it
+
+
+Lowkey self-aware, highkey obsessed with optimization
+Items:
+Vision pros
+Elon something
+clause/grok log
+Leetcode (tech job mkt is shit)
+Their Tech Tweets
+Screenshot of HackerNews post titled: “Why I’m Leaving FAANG at 27”
+Aigenerated head shot
+startup pitch for ‘Uber but for Therapists’
+Reel of a tech bro narrating “how I wake up at 4:30am to optimize ROI on my life”
+Code snippet of a GPT-generated to-do app that still doesn’t work
+Luca Saint 
+Personality traits/attributes: NYC fashion student
+Elegant, eccentric, occasionally elusive
+
+
+Blends irony with sincerity like it’s an outfit choice
+
+
+Has resting “don’t talk to me unless you’re art” face
+
+
+Says more in a moodboard than most say in a novel
+Items:
+Infographic justice carousel
+Pinterest style board board
+Speaks in aesthetics
+Nyc subway chaos
+Tiktok styling thrifted jacket like its gucci
+Secret video from fashion show
+Clothing garment affected by the nyc rats
+Bacon egg and cheese form bodega
+Fit pic in mirror so blurry
+Screenshot of dms asking to borrow rick owens

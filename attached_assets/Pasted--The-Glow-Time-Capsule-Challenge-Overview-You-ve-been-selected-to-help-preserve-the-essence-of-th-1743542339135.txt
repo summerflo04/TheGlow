@@ -1,0 +1,78 @@
+ The Glow Time Capsule Challenge
+🧠 Overview
+You’ve been selected to help preserve the essence of this era for the year 2100.
+Your mission is to design an application — both frontend and backend — where three fictional characters each contribute 10 items to a digital time capsule. You will choose who these characters are, define their attributes, and decide what artifacts from today’s world they feel are worth preserving for future generations.
+This is both a creative exercise and a technical challenge — and we’re excited to see your take.
+⏱️ Ideally please spend no more than 2 hours on this assignment (really, we don’t want this to be too much work for you)
+ 📅 Final submission is due one week from the day it’s sent to you
+
+🧾 Your Objectives
+Design 3 unique characters.
+ Each character should have a name, personality traits, and any attributes you think are interesting.
+Each character must add 10 items to a shared time capsule.
+ These items can be websites, quotes, videos, memes, inventions, news articles, tech products, cultural moments, or anything else they’d choose.
+Build a frontend and backend application that lets a user:
+See the 3 characters and their capsule items.
+
+
+Explore the items added by each character.
+
+
+Use a local database and build a backend server:
+You may use any backend language and framework you like.
+
+
+You must model the characters and their items in your database.
+
+
+Serve the data from your backend to your frontend.
+
+
+Make it feel alive.
+Feel free to get weird, futuristic, funny, or sincere.
+
+
+Your app can be simple or expressive — go wild with the presentation if you want.
+
+
+
+🧰 Tools You Can Use
+Frontend: Any stack (React, Vue, plain HTML — your call)
+ Backend: Any language (Node, Python, Go, etc.)
+ Database: Local database of your choice (SQLite, PostgreSQL, MongoDB, etc.)
+AI Tools (encouraged!):
+Cursor
+
+
+Windsurf
+
+
+ChatGPT
+
+
+Claude
+
+
+
+🎥 Final Submission Requirements
+Reply to our email once finished and submit the following two links:
+🖥️ A screen recording
+Walk us through:
+The characters you created and their capsule items
+
+
+How the frontend works
+
+
+How the backend works
+
+
+Your database structure and reasoning
+
+
+Anything you’d improve with more time
+
+
+Recommended video tools: Loom, Zoom, QuickTime, etc.
+🔗 Public GitHub repos (or monorepo) for The Glow Time Capsule Challenge
+
